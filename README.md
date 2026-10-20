@@ -46,6 +46,7 @@ At Citigroup, my work includes fraud scoring, policy retrieval, and analyst work
 
 ### R analysis projects
 
+- [Data Scientist Job-Change Analysis](https://github.com/Abhinav-tanwar/data-scientist-job-change) — retrospective, city-specific classification with train-only preprocessing and limitations documented.
 - [Linear System Solver](https://github.com/Abhinav-tanwar/linear-system-solver) — tolerance-aware row reduction, inverse checks, and residual validation.
 - [Spectral and Subspace Analysis](https://github.com/Abhinav-tanwar/spectral-subspace-analysis) — null spaces, complete solution families, and complex eigenpair diagnostics.
 - [Wine Dimension Reduction](https://github.com/Abhinav-tanwar/wine-dimension-reduction) — standardized wine PCA, 90% variance retention, and reconstruction checks.
@@ -54,10 +55,25 @@ At Citigroup, my work includes fraud scoring, policy retrieval, and analyst work
 
 ### Applied machine learning and numerical methods
 
-- [Mushroom Classification](https://github.com/Abhinav-tanwar/mushroom-classification) — reproducible code, calculated results, and documented validation.
-- [Stroke Imbalance Benchmark](https://github.com/Abhinav-tanwar/stroke-imbalance-benchmark) — reproducible code, calculated results, and documented validation.
-- [Cancer Feature Compression](https://github.com/Abhinav-tanwar/cancer-feature-compression) — reproducible code, calculated results, and documented validation.
-- [Numerical Optimization Lab](https://github.com/Abhinav-tanwar/numerical-optimization-lab) — reproducible code, calculated results, and documented validation.
+<details>
+<summary>Browse the published analysis projects</summary>
+
+- [Cancer Feature Compression](https://github.com/Abhinav-tanwar/cancer-feature-compression) — Train-only scaling, sampling, PCA, and SparsePCA reconstruction.
+- [Stroke Imbalance Benchmark](https://github.com/Abhinav-tanwar/stroke-imbalance-benchmark) — Mixed-type resampling and minority-class evaluation with leakage-controlled pipelines.
+- [Vehicle Price Regression](https://github.com/Abhinav-tanwar/vehicle-price-regression) — Mixed-type price regression with train-only preprocessing and held-out evaluation.
+- [Housing Regularization Benchmark](https://github.com/Abhinav-tanwar/housing-regularization-benchmark) — OLS, ridge, lasso, elastic net, and principal-component regression on a legacy housing sample.
+- [Menu Nutrition Analysis](https://github.com/Abhinav-tanwar/menu-nutrition-analysis) — Nutrition exploration, correlated-feature grouping, and explicit outlier-treatment comparisons.
+- [ChiMerge Discretization](https://github.com/Abhinav-tanwar/chimerge-discretization) — Supervised interval merging with reproducible traces and boundary validation.
+- [Banknote Authenticity Tree](https://github.com/Abhinav-tanwar/banknote-authenticity-tree) — Held-out decision-tree evaluation with an explicitly defined counterfeit class.
+- [Mushroom Classification](https://github.com/Abhinav-tanwar/mushroom-classification) — Categorical classification with train-only encoding and poisonous-class evaluation.
+- [Numerical Optimization Lab](https://github.com/Abhinav-tanwar/numerical-optimization-lab) — Constrained extrema, trust regions, conjugate gradients, and Pareto tradeoffs.
+- [Digit Manifold Compression](https://github.com/Abhinav-tanwar/digit-manifold-compression) — Validation-selected kernel PCA and held-out digit reconstruction.
+- [Maximum Margin Classification](https://github.com/Abhinav-tanwar/maximum-margin-classification) — Linear and kernel SVM geometry on linear and nonlinear generated data.
+- [Workforce Cost Planning](https://github.com/Abhinav-tanwar/workforce-cost-planning) — Integer weekly coverage and continuous overtime/material-cost scenarios.
+- [Production Capacity Planning](https://github.com/Abhinav-tanwar/production-capacity-planning) — Resource-constrained product mix and tight-bound fixed-charge mixed-integer planning.
+- [Heart Classifier Optimization](https://github.com/Abhinav-tanwar/heart-classifier-optimization) — Comparable logistic and SGD objectives with train-only preprocessing.
+
+</details>
 
 ### Python projects
 
