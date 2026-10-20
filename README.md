@@ -44,6 +44,14 @@ At Citigroup, my work includes fraud scoring, policy retrieval, and analyst work
 
 <!-- Add public project links in the first column above. Never link private work without reviewing its visibility. -->
 
+### R analysis projects
+
+- [Linear System Solver](https://github.com/Abhinav-tanwar/linear-system-solver) — tolerance-aware row reduction, inverse checks, and residual validation.
+- [Spectral and Subspace Analysis](https://github.com/Abhinav-tanwar/spectral-subspace-analysis) — null spaces, complete solution families, and complex eigenpair diagnostics.
+- [Wine Dimension Reduction](https://github.com/Abhinav-tanwar/wine-dimension-reduction) — standardized wine PCA, 90% variance retention, and reconstruction checks.
+- [Discriminant Boundary Comparison](https://github.com/Abhinav-tanwar/discriminant-boundary-comparison) — held-out LDA/QDA comparisons and decision-region visualizations.
+- [Titanic Survival Models](https://github.com/Abhinav-tanwar/titanic-survival-models) — LDA, QDA, and logistic comparisons using explicitly synthetic demonstration data.
+
 ### Python projects
 
 - [Heart Attack Classification](https://github.com/Abhinav-tanwar/heart-attack-classification) — train-only preprocessing, mixed-type oversampling, baseline comparisons, and precision–recall evaluation on the supplied health-survey sample.
