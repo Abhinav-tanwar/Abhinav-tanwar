@@ -26,7 +26,7 @@ I build machine learning and AI applications across predictive modeling, retriev
 | Role | Organization | Dates |
 | :--- | :--- | :--- |
 | AI/ML Engineer | Citigroup | May 2026 – Present |
-| Machine Learning Engineer | Zomato | July 2021 – December 2024 |
+| Machine Learning Engineer | Zomato | July 2021 – March 2024 |
 
 At Citigroup, my work includes fraud scoring, policy retrieval, and analyst workflows with human approval. At Zomato, I worked on delivery prediction, late-order risk, and restaurant ranking.
 
