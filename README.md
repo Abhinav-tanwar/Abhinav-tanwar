@@ -38,11 +38,19 @@ At Citigroup, my work includes fraud scoring, policy retrieval, and analyst work
 | **AI Code Review** | LLM-powered GitHub pull-request review with review history | FastAPI, GitHub Actions/API, PostgreSQL |
 | **AI Agent with Memory** | Session state and semantic memory for an assistant | LangGraph, Redis, ChromaDB |
 | **Construction Permit Valuation** | Regularized regression on 5,000+ permits; 15% lower RMSE | Python, regression, Power BI |
-| **Heart Disease Prediction** | Cross-validated Random Forest; ROC-AUC from 0.81 to 0.89 | Python, SQL, scikit-learn, SMOTE |
+| [**Heart Attack Classification**](https://github.com/Abhinav-tanwar/heart-attack-classification) | Corrected logistic baseline ROC-AUC 0.8004; average precision 0.2040, with threshold limitations documented | Python, scikit-learn, imbalanced-learn |
 
 *Public repositories and demos will be linked as they become available.*
 
 <!-- Add public project links in the first column above. Never link private work without reviewing its visibility. -->
+
+### Python projects
+
+- [Heart Attack Classification](https://github.com/Abhinav-tanwar/heart-attack-classification) — train-only preprocessing, mixed-type oversampling, baseline comparisons, and precision–recall evaluation on the supplied health-survey sample.
+- [Credit Data Preparation](https://github.com/Abhinav-tanwar/credit-data-preparation) — schema checks, column-specific imputation, encoding, and train/test isolation; **synthetic demo data**.
+- [Insurance Charge Modeling](https://github.com/Abhinav-tanwar/insurance-charge-modeling) — regression, baseline comparison, and residual diagnostics; **synthetic demo data**.
+- [Numerical Array Toolkit](https://github.com/Abhinav-tanwar/numerical-array-toolkit) — matrix operations, sequence processing, and temperature summaries with edge-case tests.
+- [Python Data Utilities](https://github.com/Abhinav-tanwar/python-data-utilities) — small tested numeric, text, and illustrative record-processing functions.
 
 ### Statistical analysis projects
 
