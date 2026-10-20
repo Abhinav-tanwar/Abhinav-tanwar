@@ -7,7 +7,7 @@
 
 **From raw data to useful intelligence.**
 
-[LinkedIn](https://www.linkedin.com/in/abhinav-tanwar-155ab8239/) · [Email](mailto:abhinav.t@careeritjob.com)
+[Portfolio](https://abhinav-tanwar.github.io/) · [LinkedIn](https://www.linkedin.com/in/abhinav-tanwar-155ab8239/) · [Email](mailto:abhinav.t@careeritjob.com)
 
 </div>
 
