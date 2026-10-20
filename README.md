@@ -44,6 +44,20 @@ At Citigroup, my work includes fraud scoring, policy retrieval, and analyst work
 
 <!-- Add public project links in the first column above. Never link private work without reviewing its visibility. -->
 
+### Statistical analysis projects
+
+| Project | Methods | Availability |
+| :--- | :--- | :--- |
+| [Maternal Birthweight Analysis](https://github.com/Abhinav-tanwar/maternal-birthweight-analysis) | Report-aligned SAS reconstruction, t-tests, chi-square, ANOVA | Data and independent numeric checks; collaborative study |
+| [Sleep Treatment Response](https://github.com/Abhinav-tanwar/sleep-treatment-response) | Paired inference, confidence intervals, power planning | Data and independent numeric checks |
+| [Melanoma Lifetime Comparison](https://github.com/Abhinav-tanwar/melanoma-lifetime-comparison) | Group comparisons and distribution diagnostics | Data and independent checks; censoring ignored under original assumption |
+| [Survey Response Association](https://github.com/Abhinav-tanwar/survey-response-association) | Contingency tables, chi-square, relative risk | Aggregate data and independent numeric checks |
+| [Ratings Distribution Analysis](https://github.com/Abhinav-tanwar/ratings-distribution-analysis) | Marginal, joint, and conditional distributions | Data and independently checked counts |
+| [Tuition Trend Analysis](https://github.com/Abhinav-tanwar/tuition-trend-analysis) | Descriptive statistics, regression, residual diagnostics | SAS source; original dataset unavailable |
+| [Fluoride Treatment Effects](https://github.com/Abhinav-tanwar/fluoride-treatment-effects) | Treatment–institution GLM, interaction, post-hoc comparisons | SAS source; original dataset unavailable |
+
+*Native SAS execution is pending. Independent numerical validation and source recovery notes are included in the repositories.*
+
 ### Toolkit
 
 **Data & ML** · Python · SQL · Pandas · NumPy · scikit-learn · XGBoost · PyTorch · TensorFlow  
