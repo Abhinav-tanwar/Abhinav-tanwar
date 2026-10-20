@@ -37,7 +37,7 @@ At Citigroup, my work includes fraud scoring, policy retrieval, and analyst work
 | **AI Document Search** | PDF question-answering with retrieval-augmented generation | LangChain, FastAPI, FAISS |
 | **AI Code Review** | LLM-powered GitHub pull-request review with review history | FastAPI, GitHub Actions/API, PostgreSQL |
 | **AI Agent with Memory** | Session state and semantic memory for an assistant | LangGraph, Redis, ChromaDB |
-|| [**Permit Valuation Assistant**](https://github.com/Abhinav-tanwar/permit-valuation-assistant) | Saved regression pipeline, training-only features, validated inputs, and cap-aware evaluation | Python, scikit-learn, Streamlit |
+| [**Permit Valuation Assistant**](https://github.com/Abhinav-tanwar/permit-valuation-assistant) | Saved regression pipeline, training-only features, validated inputs, and cap-aware evaluation | Python, scikit-learn, Streamlit |
 | [**Heart Attack Classification**](https://github.com/Abhinav-tanwar/heart-attack-classification) | Corrected logistic baseline ROC-AUC 0.8004; average precision 0.2040, with threshold limitations documented | Python, scikit-learn, imbalanced-learn |
 
 *Public repositories and demos will be linked as they become available.*
