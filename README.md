@@ -37,7 +37,7 @@ At Citigroup, my work includes fraud scoring, policy retrieval, and analyst work
 | **AI Document Search** | PDF question-answering with retrieval-augmented generation | LangChain, FastAPI, FAISS |
 | **AI Code Review** | LLM-powered GitHub pull-request review with review history | FastAPI, GitHub Actions/API, PostgreSQL |
 | **AI Agent with Memory** | Session state and semantic memory for an assistant | LangGraph, Redis, ChromaDB |
-| **Construction Permit Valuation** | Regularized regression on 5,000+ permits; 15% lower RMSE | Python, regression, Power BI |
+|| [**Permit Valuation Assistant**](https://github.com/Abhinav-tanwar/permit-valuation-assistant) | Saved regression pipeline, training-only features, validated inputs, and cap-aware evaluation | Python, scikit-learn, Streamlit |
 | [**Heart Attack Classification**](https://github.com/Abhinav-tanwar/heart-attack-classification) | Corrected logistic baseline ROC-AUC 0.8004; average precision 0.2040, with threshold limitations documented | Python, scikit-learn, imbalanced-learn |
 
 *Public repositories and demos will be linked as they become available.*
@@ -51,6 +51,13 @@ At Citigroup, my work includes fraud scoring, policy retrieval, and analyst work
 - [Wine Dimension Reduction](https://github.com/Abhinav-tanwar/wine-dimension-reduction) — standardized wine PCA, 90% variance retention, and reconstruction checks.
 - [Discriminant Boundary Comparison](https://github.com/Abhinav-tanwar/discriminant-boundary-comparison) — held-out LDA/QDA comparisons and decision-region visualizations.
 - [Titanic Survival Models](https://github.com/Abhinav-tanwar/titanic-survival-models) — LDA, QDA, and logistic comparisons using explicitly synthetic demonstration data.
+
+### Applied machine learning and numerical methods
+
+- [Mushroom Classification](https://github.com/Abhinav-tanwar/mushroom-classification) — reproducible code, calculated results, and documented validation.
+- [Stroke Imbalance Benchmark](https://github.com/Abhinav-tanwar/stroke-imbalance-benchmark) — reproducible code, calculated results, and documented validation.
+- [Cancer Feature Compression](https://github.com/Abhinav-tanwar/cancer-feature-compression) — reproducible code, calculated results, and documented validation.
+- [Numerical Optimization Lab](https://github.com/Abhinav-tanwar/numerical-optimization-lab) — reproducible code, calculated results, and documented validation.
 
 ### Python projects
 
