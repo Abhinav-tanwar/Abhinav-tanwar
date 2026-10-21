@@ -6,12 +6,17 @@ I build **LLM-powered applications and production ML systems**—from retrieval 
 
 ### 01 / Selected work
 
-| Project | Verified results | Evidence |
-| :--- | :--- | :--- |
-| [**AI Document Search ↗**](https://github.com/Abhinav-tanwar/AI-Document-Search-RAG-Chatbot) | **16 tests** · A live synthetic-PDF check returned the correct budget with a **page 2 citation**. | [Validation ↗](https://github.com/Abhinav-tanwar/AI-Document-Search-RAG-Chatbot/blob/main/VALIDATION.md) |
-| [**AI Code Review Bot ↗**](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot) | **22 tests** · **2 seeded defects** surfaced in a live review; a separate Actions run posted an inline PR comment. | [Validation ↗](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot/blob/main/VALIDATION.md) · [Live PR review ↗](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot/pull/1#discussion_r4331760004) |
-| [**AI Agent With Memory ↗**](https://github.com/Abhinav-tanwar/Custom-AI-Agent-With-Memory) | **17 tests** · Save → reopen → recall → delete verified; live Whisper transcription checked. | [Validation ↗](https://github.com/Abhinav-tanwar/Custom-AI-Agent-With-Memory/blob/main/VALIDATION.md) |
-| [**Permit Valuation Assistant ↗**](https://github.com/Abhinav-tanwar/permit-valuation-assistant) | **0.780 holdout R²** on a capped **log1p target** · **1,500 held-out records**. | [Model metrics ↗](https://github.com/Abhinav-tanwar/permit-valuation-assistant/blob/main/artifacts/model_metrics.json) |
+[**AI Document Search (RAG Chatbot) ↗**](https://github.com/Abhinav-tanwar/AI-Document-Search-RAG-Chatbot)  
+**16 tests** · Live synthetic-PDF check returned the correct budget with a **page 2 citation**. [Validation ↗](https://github.com/Abhinav-tanwar/AI-Document-Search-RAG-Chatbot/blob/main/VALIDATION.md)
+
+[**AI Code Review Bot ↗**](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot)  
+**22 tests** · **2 seeded defects** surfaced in a live review; Actions also posted an inline PR comment. [Validation ↗](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot/blob/main/VALIDATION.md) · [Live review ↗](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot/pull/1#discussion_r4331760004)
+
+[**Custom AI Agent With Memory ↗**](https://github.com/Abhinav-tanwar/Custom-AI-Agent-With-Memory)  
+**17 tests** · Save → reopen → recall → delete verified; live Whisper transcription checked. [Validation ↗](https://github.com/Abhinav-tanwar/Custom-AI-Agent-With-Memory/blob/main/VALIDATION.md)
+
+[**Permit Valuation Assistant ↗**](https://github.com/Abhinav-tanwar/permit-valuation-assistant)  
+**0.780 holdout R²** on a capped **log1p target** · **1,500 held-out records**. [Model metrics ↗](https://github.com/Abhinav-tanwar/permit-valuation-assistant/blob/main/artifacts/model_metrics.json)
 
 <sub>Tests use deterministic doubles; live AI checks use synthetic examples and are not accuracy benchmarks. Permit R² is on the log target, not dollar accuracy; capped-target dollar MAE is $178,907. [Methodology ↗](https://github.com/Abhinav-tanwar/permit-valuation-assistant/blob/main/docs/methodology.md)</sub>
 
