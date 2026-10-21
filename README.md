@@ -1,115 +1,41 @@
-![Abhinav Tanwar — From raw data to useful intelligence](assets/header.svg)
-
-<div align="center">
+![Abhinav Tanwar — AI Engineering](assets/header.svg)
 
 # Abhinav Tanwar
-### AI/ML Engineer · Applied AI & Data Science
 
-**From raw data to useful intelligence.**
+**AI Engineer · Generative AI, RAG & Agents**
+
+I build AI applications that turn knowledge into useful workflows—from document search and automated code review to assistants with persistent memory. My background in statistics and machine learning shapes how I evaluate and deliver them.
 
 [Portfolio](https://abhinav-tanwar.github.io/) · [LinkedIn](https://www.linkedin.com/in/abhinav-tanwar-155ab8239/) · [Email](mailto:abhinav.t@careeritjob.com)
 
-</div>
+### Selected work
 
----
+| Project | What it does | Core stack |
+| :--- | :--- | :--- |
+| [**AI Document Search (RAG Chatbot)**](https://github.com/Abhinav-tanwar/AI-Document-Search-RAG-Chatbot) | PDF question-answering with semantic retrieval and source context | OpenAI, LangChain, FastAPI, FAISS |
+| [**AI Code Review Bot**](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot) | GitHub PR reviews with validated inline findings and review history | OpenAI, FastAPI, GitHub Actions |
+| [**Custom AI Agent With Memory**](https://github.com/Abhinav-tanwar/Custom-AI-Agent-With-Memory) | Voice/text conversations with explicit, inspectable long-term memory | LangChain, Whisper, ChromaDB, Streamlit |
+| [**Permit Valuation Assistant**](https://github.com/Abhinav-tanwar/permit-valuation-assistant) | Saved regression pipeline with validated inputs and documented evaluation | Python, scikit-learn, Streamlit |
 
-I build machine learning and AI applications across predictive modeling, retrieval-augmented generation, agents, and production APIs. I’m pursuing an **M.S. in Applied Statistics and Data Science at UT Arlington**, with graduation expected in **December 2026**.
-
-### What I work on
-
-- **Machine learning:** classification, regression, ranking, feature engineering, and model evaluation.
-- **Generative AI:** retrieval, semantic search, LLM applications, and agents with memory.
-- **Engineering:** FastAPI services, data pipelines, Docker, deployment, and monitoring.
+[Explore all repositories →](https://github.com/Abhinav-tanwar?tab=repositories)
 
 ### Experience
 
-| Role | Organization | Dates |
-| :--- | :--- | :--- |
-| AI/ML Engineer | Citigroup | May 2026 – Present |
-| Machine Learning Engineer | Zomato | July 2021 – March 2024 |
-
-At Citigroup, my work includes fraud scoring, policy retrieval, and analyst workflows with human approval. At Zomato, I worked on delivery prediction, late-order risk, and restaurant ranking.
-
-### Selected projects
-
-| Project | Focus | Tools |
-| :--- | :--- | :--- |
-| **AI Document Search** | PDF question-answering with retrieval-augmented generation | LangChain, FastAPI, FAISS |
-| **AI Code Review** | LLM-powered GitHub pull-request review with review history | FastAPI, GitHub Actions/API, PostgreSQL |
-| **AI Agent with Memory** | Session state and semantic memory for an assistant | LangGraph, Redis, ChromaDB |
-| [**Permit Valuation Assistant**](https://github.com/Abhinav-tanwar/permit-valuation-assistant) | Saved regression pipeline, training-only features, validated inputs, and cap-aware evaluation | Python, scikit-learn, Streamlit |
-| [**Heart Attack Classification**](https://github.com/Abhinav-tanwar/heart-attack-classification) | Corrected logistic baseline ROC-AUC 0.8004; average precision 0.2040, with threshold limitations documented | Python, scikit-learn, imbalanced-learn |
-
-*Public repositories and demos will be linked as they become available.*
-
-<!-- Add public project links in the first column above. Never link private work without reviewing its visibility. -->
-
-### R analysis projects
-
-- [Data Scientist Job-Change Analysis](https://github.com/Abhinav-tanwar/data-scientist-job-change) — retrospective, city-specific classification with train-only preprocessing and limitations documented.
-- [Linear System Solver](https://github.com/Abhinav-tanwar/linear-system-solver) — tolerance-aware row reduction, inverse checks, and residual validation.
-- [Spectral and Subspace Analysis](https://github.com/Abhinav-tanwar/spectral-subspace-analysis) — null spaces, complete solution families, and complex eigenpair diagnostics.
-- [Wine Dimension Reduction](https://github.com/Abhinav-tanwar/wine-dimension-reduction) — standardized wine PCA, 90% variance retention, and reconstruction checks.
-- [Discriminant Boundary Comparison](https://github.com/Abhinav-tanwar/discriminant-boundary-comparison) — held-out LDA/QDA comparisons and decision-region visualizations.
-- [Titanic Survival Models](https://github.com/Abhinav-tanwar/titanic-survival-models) — LDA, QDA, and logistic comparisons using explicitly synthetic demonstration data.
-
-### Applied machine learning and numerical methods
-
-<details>
-<summary>Browse the published analysis projects</summary>
-
-- [Cancer Feature Compression](https://github.com/Abhinav-tanwar/cancer-feature-compression) — Train-only scaling, sampling, PCA, and SparsePCA reconstruction.
-- [Stroke Imbalance Benchmark](https://github.com/Abhinav-tanwar/stroke-imbalance-benchmark) — Mixed-type resampling and minority-class evaluation with leakage-controlled pipelines.
-- [Vehicle Price Regression](https://github.com/Abhinav-tanwar/vehicle-price-regression) — Mixed-type price regression with train-only preprocessing and held-out evaluation.
-- [Housing Regularization Benchmark](https://github.com/Abhinav-tanwar/housing-regularization-benchmark) — OLS, ridge, lasso, elastic net, and principal-component regression on a legacy housing sample.
-- [Menu Nutrition Analysis](https://github.com/Abhinav-tanwar/menu-nutrition-analysis) — Nutrition exploration, correlated-feature grouping, and explicit outlier-treatment comparisons.
-- [ChiMerge Discretization](https://github.com/Abhinav-tanwar/chimerge-discretization) — Supervised interval merging with reproducible traces and boundary validation.
-- [Banknote Authenticity Tree](https://github.com/Abhinav-tanwar/banknote-authenticity-tree) — Held-out decision-tree evaluation with an explicitly defined counterfeit class.
-- [Mushroom Classification](https://github.com/Abhinav-tanwar/mushroom-classification) — Categorical classification with train-only encoding and poisonous-class evaluation.
-- [Numerical Optimization Lab](https://github.com/Abhinav-tanwar/numerical-optimization-lab) — Constrained extrema, trust regions, conjugate gradients, and Pareto tradeoffs.
-- [Digit Manifold Compression](https://github.com/Abhinav-tanwar/digit-manifold-compression) — Validation-selected kernel PCA and held-out digit reconstruction.
-- [Maximum Margin Classification](https://github.com/Abhinav-tanwar/maximum-margin-classification) — Linear and kernel SVM geometry on linear and nonlinear generated data.
-- [Workforce Cost Planning](https://github.com/Abhinav-tanwar/workforce-cost-planning) — Integer weekly coverage and continuous overtime/material-cost scenarios.
-- [Production Capacity Planning](https://github.com/Abhinav-tanwar/production-capacity-planning) — Resource-constrained product mix and tight-bound fixed-charge mixed-integer planning.
-- [Heart Classifier Optimization](https://github.com/Abhinav-tanwar/heart-classifier-optimization) — Comparable logistic and SGD objectives with train-only preprocessing.
-
-</details>
-
-### Python projects
-
-- [Heart Attack Classification](https://github.com/Abhinav-tanwar/heart-attack-classification) — train-only preprocessing, mixed-type oversampling, baseline comparisons, and precision–recall evaluation on the supplied health-survey sample.
-- [Credit Data Preparation](https://github.com/Abhinav-tanwar/credit-data-preparation) — schema checks, column-specific imputation, encoding, and train/test isolation; **synthetic demo data**.
-- [Insurance Charge Modeling](https://github.com/Abhinav-tanwar/insurance-charge-modeling) — regression, baseline comparison, and residual diagnostics; **synthetic demo data**.
-- [Numerical Array Toolkit](https://github.com/Abhinav-tanwar/numerical-array-toolkit) — matrix operations, sequence processing, and temperature summaries with edge-case tests.
-- [Python Data Utilities](https://github.com/Abhinav-tanwar/python-data-utilities) — small tested numeric, text, and illustrative record-processing functions.
-
-### Statistical analysis projects
-
-| Project | Methods | Availability |
-| :--- | :--- | :--- |
-| [Maternal Birthweight Analysis](https://github.com/Abhinav-tanwar/maternal-birthweight-analysis) | Report-aligned SAS reconstruction, t-tests, chi-square, ANOVA | Data and independent numeric checks; collaborative study |
-| [Sleep Treatment Response](https://github.com/Abhinav-tanwar/sleep-treatment-response) | Paired inference, confidence intervals, power planning | Data and independent numeric checks |
-| [Melanoma Lifetime Comparison](https://github.com/Abhinav-tanwar/melanoma-lifetime-comparison) | Group comparisons and distribution diagnostics | Data and independent checks; censoring ignored under original assumption |
-| [Survey Response Association](https://github.com/Abhinav-tanwar/survey-response-association) | Contingency tables, chi-square, relative risk | Aggregate data and independent numeric checks |
-| [Ratings Distribution Analysis](https://github.com/Abhinav-tanwar/ratings-distribution-analysis) | Marginal, joint, and conditional distributions | Data and independently checked counts |
-| [Tuition Trend Analysis](https://github.com/Abhinav-tanwar/tuition-trend-analysis) | Descriptive statistics, regression, residual diagnostics | SAS source; original dataset unavailable |
-| [Fluoride Treatment Effects](https://github.com/Abhinav-tanwar/fluoride-treatment-effects) | Treatment–institution GLM, interaction, post-hoc comparisons | SAS source; original dataset unavailable |
-
-*Native SAS execution is pending. Independent numerical validation and source recovery notes are included in the repositories.*
+- **AI/ML Engineer · Citigroup** — May 2026–Present  
+  Fraud scoring, policy retrieval, and analyst workflows with human approval.
+- **Machine Learning Engineer · Zomato** — July 2021–March 2024  
+  Delivery-time prediction, late-order risk, and restaurant ranking.
 
 ### Toolkit
 
-**Data & ML** · Python · SQL · Pandas · NumPy · scikit-learn · XGBoost · PyTorch · TensorFlow  
-**GenAI & retrieval** · LangChain · LangGraph · Hugging Face · pgvector · Redis  
-**Delivery & operations** · FastAPI · Docker · AWS · Azure · MLflow · CI/CD  
-**Pipelines** · PySpark · Airflow · Databricks
+**AI & retrieval:** OpenAI · LangChain · LangGraph · FAISS · ChromaDB · Whisper  
+**Engineering:** Python · FastAPI · React · Streamlit · Docker · GitHub Actions  
+**Data & evaluation:** SQL · Pandas · scikit-learn · XGBoost · MLflow · AWS
 
-### Beyond the code
+### Background
 
-- **Education:** M.S. Applied Statistics and Data Science, UT Arlington (expected December 2026); B.E. Computer Science, Bangalore Institute of Technology.
-- **Leadership:** Vice President, Graduate Student Council, UTA · Spring 2026.
-- **Publication:** [Maternal Characteristics and Newborn Birth Weight: A Comprehensive Statistical Analysis](https://ijisr.issr-journals.org/abstract.php?article=IJISR-25-247-06).
+M.S. Applied Statistics and Data Science, **UT Arlington** — expected December 2026. B.E. Computer Science, Bangalore Institute of Technology.
 
----
+Vice President, Graduate Student Council, UTA · Spring 2026. [Published statistical research](https://ijisr.issr-journals.org/abstract.php?article=IJISR-25-247-06).
 
-**Have a practical AI problem to explore?** [Let’s talk →](mailto:abhinav.t@careeritjob.com)
+**Interested in AI engineering opportunities.** [Get in touch →](mailto:abhinav.t@careeritjob.com)
