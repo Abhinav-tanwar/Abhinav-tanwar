@@ -4,7 +4,7 @@
 
 **AI Engineer · Generative AI, RAG & Agents**
 
-I build AI applications that turn knowledge into useful workflows—from document search and automated code review to assistants with persistent memory. My background in statistics and machine learning shapes how I evaluate and deliver them.
+I build **LLM-powered applications and production ML systems**, from data preparation and feature engineering to API deployment and monitoring. My focus is retrieval-augmented generation, agent workflows, and practical AI applications backed by meaningful evaluation.
 
 [Portfolio](https://abhinav-tanwar.github.io/) · [LinkedIn](https://www.linkedin.com/in/abhinav-tanwar-155ab8239/) · [Email](mailto:abhinav.t@careeritjob.com)
 
@@ -22,15 +22,15 @@ I build AI applications that turn knowledge into useful workflows—from documen
 ### Experience
 
 - **AI/ML Engineer · Citigroup** — May 2026–Present  
-  Fraud scoring, policy retrieval, and analyst workflows with human approval.
+  Policy retrieval with LangChain, Amazon Bedrock, and pgvector; LangGraph workflows with analyst approval; FastAPI delivery and model monitoring.
 - **Machine Learning Engineer · Zomato** — July 2021–March 2024  
-  Delivery-time prediction, late-order risk, and restaurant ranking.
+  Delivery prediction, late-order risk, and learning-to-rank systems using Python, XGBoost, FastAPI, PySpark, Airflow, and Redis.
 
 ### Toolkit
 
-**AI & retrieval:** OpenAI · LangChain · LangGraph · FAISS · ChromaDB · Whisper  
-**Engineering:** Python · FastAPI · React · Streamlit · Docker · GitHub Actions  
-**Data & evaluation:** SQL · Pandas · scikit-learn · XGBoost · MLflow · AWS
+**AI & retrieval:** LangChain · LangGraph · RAG · Embeddings · pgvector · LLM & retrieval evaluation  
+**Production & cloud:** Python · FastAPI · Docker · AWS Bedrock & SageMaker · MLflow · pytest · CI/CD  
+**ML & data:** SQL · scikit-learn · XGBoost · PySpark · Airflow · Redis · A/B testing
 
 ### Background
 
