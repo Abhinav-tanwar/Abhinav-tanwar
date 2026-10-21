@@ -1,4 +1,4 @@
-[![Abhinav Tanwar — AI Engineer. Intelligence, built for the real world.](assets/header.svg)](https://abhinav-tanwar.github.io/)
+[![Abhinav Tanwar — AI Engineer. Intelligence, built for the real world.](assets/header.gif)](https://abhinav-tanwar.github.io/)
 
 [**Portfolio ↗**](https://abhinav-tanwar.github.io/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/abhinav-tanwar-155ab8239/) &nbsp; · &nbsp; [Email ↗](mailto:abhinav.t@careeritjob.com)
 
