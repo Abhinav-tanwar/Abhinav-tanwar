@@ -6,19 +6,19 @@ I build **LLM-powered applications and production ML systems**—from retrieval 
 
 ### 01 / Selected work
 
+[**AI Evaluation Studio ↗**](https://github.com/Abhinav-tanwar/AI-Evaluation-Studio)  
+**85% → 90% exact match** on 20 synthetic holdout questions · **100% source recall** across 16 answerable cases · **23 tests**. Local extractive adapter; two failures remain. [Results & methodology ↗](https://github.com/Abhinav-tanwar/AI-Evaluation-Studio/blob/main/docs/results.md)
+
 [**AI Document Search (RAG Chatbot) ↗**](https://github.com/Abhinav-tanwar/AI-Document-Search-RAG-Chatbot)  
 **16 tests** · Live synthetic-PDF check returned the correct budget with a **page 2 citation**. [Validation ↗](https://github.com/Abhinav-tanwar/AI-Document-Search-RAG-Chatbot/blob/main/VALIDATION.md)
 
 [**AI Code Review Bot ↗**](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot)  
 **22 tests** · **2 seeded defects** surfaced in a live review; Actions also posted an inline PR comment. [Validation ↗](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot/blob/main/VALIDATION.md) · [Live review ↗](https://github.com/Abhinav-tanwar/AI-Code-Review-Bot/pull/1#discussion_r4331760004)
 
-[**Custom AI Agent With Memory ↗**](https://github.com/Abhinav-tanwar/Custom-AI-Agent-With-Memory)  
-**17 tests** · Save → reopen → recall → delete verified; live Whisper transcription checked. [Validation ↗](https://github.com/Abhinav-tanwar/Custom-AI-Agent-With-Memory/blob/main/VALIDATION.md)
-
 [**Permit Valuation Assistant ↗**](https://github.com/Abhinav-tanwar/permit-valuation-assistant)  
 **0.780 holdout R²** on a capped **log1p target** · **1,500 held-out records**. [Model metrics ↗](https://github.com/Abhinav-tanwar/permit-valuation-assistant/blob/main/artifacts/model_metrics.json)
 
-<sub>Tests use deterministic doubles; live AI checks use synthetic examples and are not accuracy benchmarks. Permit R² is on the log target, not dollar accuracy; capped-target dollar MAE is $178,907. [Methodology ↗](https://github.com/Abhinav-tanwar/permit-valuation-assistant/blob/main/docs/methodology.md)</sub>
+<sub>Live AI checks use synthetic examples and are not accuracy benchmarks. Permit R² is on the log target, not dollar accuracy; capped-target dollar MAE is $178,907. [Methodology ↗](https://github.com/Abhinav-tanwar/permit-valuation-assistant/blob/main/docs/methodology.md)</sub>
 
 <details>
 <summary><strong>View the applications · four real screenshots</strong></summary>
@@ -26,21 +26,21 @@ I build **LLM-powered applications and production ML systems**—from retrieval 
 <table>
 <tr>
 <td width="50%" valign="top">
+<strong>AI Evaluation Studio</strong><br><br>
+<a href="assets/evidence/evaluation-studio.png"><img src="assets/evidence/evaluation-studio.png" width="440" alt="AI Evaluation Studio showing the real holdout comparison and remaining failures"></a><br>
+<sub>Actual extractive benchmark: 18/20 exact matches; two failures remain.</sub>
+</td>
+<td width="50%" valign="top">
 <strong>Document search</strong><br><br>
 <a href="assets/evidence/document-search.png"><img src="assets/evidence/document-search.png" width="440" alt="AI Document Search local PDF-library and chat workspace"></a><br>
 <sub>Actual local PDF-library and chat workspace.</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <strong>Code review</strong><br><br>
 <a href="assets/evidence/code-review.png"><img src="assets/evidence/code-review.png" width="440" alt="Live AI code review of a synthetic diff with two validated findings"></a><br>
 <sub>Live model output on a synthetic payment diff.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>Agent with memory</strong><br><br>
-<a href="assets/evidence/memory-agent.png"><img src="assets/evidence/memory-agent.png" width="440" alt="Memory agent showing a real local chat and memory controls"></a><br>
-<sub>Actual local chat, voice input, and memory controls.</sub>
 </td>
 <td width="50%" valign="top">
 <strong>Permit valuation</strong><br><br>
@@ -53,6 +53,8 @@ I build **LLM-powered applications and production ML systems**—from retrieval 
 Click a screenshot to inspect it at full size. [Explore results and methods in the portfolio ↗](https://abhinav-tanwar.github.io/#work)
 
 </details>
+
+[**Also built:** Custom AI Agent With Memory ↗](https://github.com/Abhinav-tanwar/Custom-AI-Agent-With-Memory) · Explicit memory, voice input, and verified recall/deletion.
 
 [Browse the complete repository collection →](https://github.com/Abhinav-tanwar?tab=repositories)
 
